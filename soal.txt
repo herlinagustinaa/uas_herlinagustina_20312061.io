@@ -3,16 +3,18 @@ NPM: 20312061
 Kode Soal: A
 
 1. Sistem apa yang anda kembangkan?
-Jawab:istem Informasi Pemesanan Makanan Online pada Kantin Sekolah berbasis Website
+Jawab: Sistem Informasi Pemesanan Makanan Online pada Kantin Sekolah berbasis Website
 
 2. Permasalahan apa yang terjadi pada studi kasus anda?
-Jawab:waktu pengembangan yang terbatas karena sistem harus selesai pada tahun ajaran baru, anggaran dana yang terbatas untuk biaya hosting dan domain serta kesiapan infrastruktur IT pada sekolah yang belum memadai.
+Jawab:Antrian panjang di kantin dan pembayaran tunai telah menjadi masalah yang sering terjadi. Hal ini membuat para siswa kehabisan waktu istirahatnya untuk makan dan melanjutkan aktivitas belajar dikelas.
 
 3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
-Jawab: meminta tambahan waktu 
+Jawab: Sebuah perencanaan proyek sistem yang memungkinkan siswa dan guru memesan makanan secara online dan melakukan pembayaran elektronik, yang bertujuan untuk meningkatkan efisiensi, mengurangi antrian, dan memberikan pengalaman bertransaksi yang lebih baik pada kantin.
+ 
 
 4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
 Jawab:bertransaksi secara online
 
 5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
-Jawab: waktu yang kurang
+Jawab: waktu pengembangan yang terbatas karena sistem harus selesai pada tahun ajaran baru, anggaran dana yang terbatas untuk biaya hosting dan domain serta kesiapan infrastruktur IT pada sekolah yang belum memadai.
+
