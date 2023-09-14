@@ -1,0 +1,18 @@
+Nama: Herlin Agustina
+NPM: 20312061
+Kode Soal: A
+
+1. Sistem apa yang anda kembangkan?
+Jawab:istem Informasi Pemesanan Makanan Online pada Kantin Sekolah berbasis Website
+
+2. Permasalahan apa yang terjadi pada studi kasus anda?
+Jawab:waktu pengembangan yang terbatas karena sistem harus selesai pada tahun ajaran baru, anggaran dana yang terbatas untuk biaya hosting dan domain serta kesiapan infrastruktur IT pada sekolah yang belum memadai.
+
+3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
+Jawab: meminta tambahan waktu 
+
+4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
+Jawab:bertransaksi secara online
+
+5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
+Jawab: waktu yang kurang
